@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aeefeb80-cc5b-47fa-8f09-cd5ce77c8e4c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cyf7fhHTyyNrrlfMkxqGNNOqBe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../make_label.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.ceshi">
+    <configuration name="ceshi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="机器学习大作业" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ceshi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hql yes！" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="机器学习大作业" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hql yes！.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="labels" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="机器学习大作业" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labels.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pca" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="机器学习大作业" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pca.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plot_face_recognition" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="机器学习大作业" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plot_face_recognition.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ceshi" />
+        <item itemvalue="Python.pca" />
+        <item itemvalue="Python.hql yes！" />
+        <item itemvalue="Python.plot_face_recognition" />
+        <item itemvalue="Python.labels" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aeefeb80-cc5b-47fa-8f09-cd5ce77c8e4c" name="Default Changelist" comment="" />
+      <created>1591505587298</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591505587298</updated>
+      <workItem from="1591505602662" duration="15249000" />
+      <workItem from="1591624492289" duration="1651000" />
+      <workItem from="1591626164772" duration="245000" />
+      <workItem from="1593152828541" duration="744000" />
+      <workItem from="1593168760731" duration="8315000" />
+      <workItem from="1593238534362" duration="5464000" />
+      <workItem from="1593311714380" duration="27479000" />
+      <workItem from="1593422848950" duration="7517000" />
+      <workItem from="1593432286399" duration="36530000" />
+      <workItem from="1594030465320" duration="13119000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="466" y="234" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594034812375">
+      <screen x="0" y="0" width="1472" height="864" />
+    </state>
+    <state x="466" y="234" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1472.864@0.0.1472.864" timestamp="1594034812375" />
+    <state x="467" y="178" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594034059985">
+      <screen x="0" y="0" width="1472" height="864" />
+    </state>
+    <state x="467" y="178" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1472.864@0.0.1472.864" timestamp="1594034059985" />
+    <state x="517" y="187" key="FileChooserDialogImpl" timestamp="1593169507696">
+      <screen x="0" y="0" width="1472" height="864" />
+    </state>
+    <state x="517" y="187" key="FileChooserDialogImpl/0.0.1472.864@0.0.1472.864" timestamp="1593169507696" />
+    <state width="1429" height="195" key="GridCell.Tab.0.bottom" timestamp="1594044584022">
+      <screen x="0" y="0" width="1472" height="864" />
+    </state>
+    <state width="1237" height="195" key="GridCell.Tab.0.bottom/0.0.1472.864/0.-1080.1280.680@0.-1080.1280.680" timestamp="1593450703911" />
+    <state width="1429" height="277" key="GridCell.Tab.0.bottom/0.0.1472.864/0.-1080.1280.680@0.0.1472.864" timestamp="1593501001970" />
+    <state width="1429" height="195" key="GridCell.Tab.0.bottom/0.0.1472.864@0.0.1472.864" timestamp="1594044584022" />
+    <state width="1429" height="195" key="GridCell.Tab.0.center" timestamp="1594044584022">
+      <screen x="0" y="0" width="1472" height="864" />
+    </state>
+    <state width="1237" height="195" key="GridCell.Tab.0.center/0.0.1472.864/0.-1080.1280.680@0.-1080.1280.680" timestamp="1593450703911" />
+    <state width="1429" height="277" key="GridCell.Tab.0.center/0.0.1472.864/0.-1080.1280.680@0.0.1472.864" timestamp="1593501001970" />
+    <state width="1429" height="195" key="GridCell.Tab.0.center/0.0.1472.864@0.0.1472.864" timestamp="1594044584022" />
+    <state width="1429" height="195" key="GridCell.Tab.0.left" timestamp="1594044584022">
+      <screen x="0" y="0" width="1472" height="864" />
+    </state>
+    <state width="1237" height="195" key="GridCell.Tab.0.left/0.0.1472.864/0.-1080.1280.680@0.-1080.1280.680" timestamp="1593450703911" />
+    <state width="1429" height="277" key="GridCell.Tab.0.left/0.0.1472.864/0.-1080.1280.680@0.0.1472.864" timestamp="1593501001970" />
+    <state width="1429" height="195" key="GridCell.Tab.0.left/0.0.1472.864@0.0.1472.864" timestamp="1594044584022" />
+    <state width="1429" height="195" key="GridCell.Tab.0.right" timestamp="1594044584022">
+      <screen x="0" y="0" width="1472" height="864" />
+    </state>
+    <state width="1237" height="195" key="GridCell.Tab.0.right/0.0.1472.864/0.-1080.1280.680@0.-1080.1280.680" timestamp="1593450703911" />
+    <state width="1429" height="277" key="GridCell.Tab.0.right/0.0.1472.864/0.-1080.1280.680@0.0.1472.864" timestamp="1593501001970" />
+    <state width="1429" height="195" key="GridCell.Tab.0.right/0.0.1472.864@0.0.1472.864" timestamp="1594044584022" />
+    <state width="1429" height="277" key="GridCell.Tab.1.bottom" timestamp="1593501001970">
+      <screen x="0" y="0" width="1472" height="864" />
+    </state>
+    <state width="1429" height="277" key="GridCell.Tab.1.bottom/0.0.1472.864/0.-1080.1280.680@0.0.1472.864" timestamp="1593501001970" />
+    <state width="1429" height="277" key="GridCell.Tab.1.bottom/0.0.1472.864@0.0.1472.864" timestamp="1593418864334" />
+    <state width="1429" height="277" key="GridCell.Tab.1.center" timestamp="1593501001970">
+      <screen x="0" y="0" width="1472" height="864" />
+    </state>
+    <state width="1429" height="277" key="GridCell.Tab.1.center/0.0.1472.864/0.-1080.1280.680@0.0.1472.864" timestamp="1593501001970" />
+    <state width="1429" height="277" key="GridCell.Tab.1.center/0.0.1472.864@0.0.1472.864" timestamp="1593418864334" />
+    <state width="1429" height="277" key="GridCell.Tab.1.left" timestamp="1593501001970">
+      <screen x="0" y="0" width="1472" height="864" />
+    </state>
+    <state width="1429" height="277" key="GridCell.Tab.1.left/0.0.1472.864/0.-1080.1280.680@0.0.1472.864" timestamp="1593501001970" />
+    <state width="1429" height="277" key="GridCell.Tab.1.left/0.0.1472.864@0.0.1472.864" timestamp="1593418864334" />
+    <state width="1429" height="277" key="GridCell.Tab.1.right" timestamp="1593501001970">
+      <screen x="0" y="0" width="1472" height="864" />
+    </state>
+    <state width="1429" height="277" key="GridCell.Tab.1.right/0.0.1472.864/0.-1080.1280.680@0.0.1472.864" timestamp="1593501001970" />
+    <state width="1429" height="277" key="GridCell.Tab.1.right/0.0.1472.864@0.0.1472.864" timestamp="1593418864334" />
+    <state x="388" y="157" width="996" height="707" key="SettingsEditor" timestamp="1593357310927">
+      <screen x="0" y="0" width="1472" height="864" />
+    </state>
+    <state x="388" y="157" width="996" height="707" key="SettingsEditor/0.0.1472.864/0.-1080.1280.680@0.0.1472.864" timestamp="1593357310927" />
+    <state x="397" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1593422894738">
+      <screen x="0" y="0" width="1472" height="864" />
+    </state>
+    <state x="397" y="208" key="com.intellij.ide.util.TipDialog/0.0.1472.864/0.-1080.1280.680@0.0.1472.864" timestamp="1591626167194" />
+    <state x="397" y="208" key="com.intellij.ide.util.TipDialog/0.0.1472.864@0.0.1472.864" timestamp="1593422894738" />
+    <state x="478" y="74" key="refactoring.ChangeSignatureDialog" timestamp="1594032212162">
+      <screen x="0" y="0" width="1472" height="864" />
+    </state>
+    <state x="478" y="74" key="refactoring.ChangeSignatureDialog/0.0.1472.864@0.0.1472.864" timestamp="1594032212162" />
+    <state x="431" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1593491849208">
+      <screen x="0" y="0" width="1472" height="864" />
+    </state>
+    <state x="431" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1472.864/0.-1080.1280.680@0.0.1472.864" timestamp="1593491849208" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/$train_face.coverage" NAME="train_face Coverage Results" MODIFIED="1593408065704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$face_detection.coverage" NAME="face detection Coverage Results" MODIFIED="1591625839888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$set_other_people.coverage" NAME="set_other_people Coverage Results" MODIFIED="1593404722347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$plot_face_recognition.coverage" NAME="plot_face_recognition Coverage Results" MODIFIED="1593448921369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$ceshi.coverage" NAME="ceshi Coverage Results" MODIFIED="1594041046710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$labels.coverage" NAME="labels Coverage Results" MODIFIED="1593438586800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$pca.coverage" NAME="pca Coverage Results" MODIFIED="1594030555058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$shuchufangkuang.coverage" NAME="shuchufangkuang Coverage Results" MODIFIED="1593348765993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$hql_yes.coverage" NAME="hql yes！ Coverage Results" MODIFIED="1593494252729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
